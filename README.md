@@ -1,5 +1,5 @@
 # Weather-Application
-*What is it?*
+- *What is it?*
 This project is a Weather Application written with JavaScript, providing users with real-time weather updates based on their location or searched city. 
 
 This site features a simple and intuitive interface that displays current conditions, forecasts, and weather-related details like temperature, humidity, and wind speed. 
