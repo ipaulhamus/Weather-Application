@@ -1,0 +1,20 @@
+.nav-header
+{
+    margin-left: 20px;
+}
+
+.feedback
+{
+    margin-top: 0.5rem;
+}
+
+.feedback.invalid
+{
+    color: var(--bs-danger);
+    font-weight: bold;
+}
+
+.feedback.valid
+{
+    color: var(--bs-success);
+}
